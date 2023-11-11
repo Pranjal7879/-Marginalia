@@ -67,4 +67,42 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
+
+This is a simple sticky notes app that allows you to create, edit, and delete notes. You can also change the color of the notes and add images.
+
+## Features
+
+* Create, edit, and delete notes
+* Change the color of notes
+* Add images to notes
+* Search for notes
+* Save notes to a file
+* Load notes from a file
+
+## Installation
+
+To install the app, simply download the latest release from the [releases page](https://github.com/username/sticky-notes-app/releases). Once you have downloaded the release, extract the files to a directory on your computer. You can then run the app by double-clicking on the `sticky-notes.exe` file.
+
+## Usage
+
+To create a new note, simply click on the "Create Note" button. A new note will be created and you will be able to enter your text. To edit a note, simply double-click on the note. The note will open in edit mode and you will be able to change the text. To delete a note, simply right-click on the note and select "Delete".
+
+To change the color of a note, simply right-click on the note and select "Change Color". A color picker will appear and you will be able to select a new color for the note.
+
+To add an image to a note, simply click on the "Add Image" button. A file picker will appear and you will be able to select an image from your computer. The image will be added to the note.
+
+To search for a note, simply type the search term in the search bar. The app will search all of your notes and display the results.
+
+To save a note to a file, simply right-click on the note and select "Save". A file picker will appear and you will be able to select a location to save the note.
+
+To load a note from a file, simply click on the "Load Note" button. A file picker will appear and you will be able to select a note to load.
+
+## Contributing
+
+If you would like to contribute to the development of this app, please fork the repository on GitHub and create a pull request with your changes.
+
+## License
+
+This app is released under the [MIT License](https://github.com/username/sticky-notes-app/blob/master/LICENSE).
+
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
