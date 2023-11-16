@@ -13,6 +13,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 * Load notes from a file
 
 
+![Screenshot (28)](https://github.com/Pranjal7879/-Marginalia/assets/138642719/3e041e03-369e-4f03-b08b-db973e3a10ec)
+
+
+
+
+
+
+
+
 ## Available Scripts
 
 In the project directory, you can run:
