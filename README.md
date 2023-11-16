@@ -2,6 +2,17 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+
+## Features
+
+* Create, edit, and delete notes
+* Change the color of notes
+* Add images to notes
+* Search for notes
+* Save notes to a file
+* Load notes from a file
+
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -70,14 +81,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This is a simple sticky notes app that allows you to create, edit, and delete notes. You can also change the color of the notes and add images.
 
-## Features
-
-* Create, edit, and delete notes
-* Change the color of notes
-* Add images to notes
-* Search for notes
-* Save notes to a file
-* Load notes from a file
 
 ## Installation
 
